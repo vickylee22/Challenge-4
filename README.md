@@ -91,9 +91,9 @@ Next, for each of the two portfolios that you chose, complete the following step
 
 Finally, answer the following two questions:
 
-    * Which of the two portfolios seem more sensitive to movements in the S&P 500?
+      * Which of the two portfolios seem more sensitive to movements in the S&P 500?
 
-    * Which of the two portfolios do you recommend for inclusion in your firm’s suite of fund offerings?
+      * Which of the two portfolios do you recommend for inclusion in your firm’s suite of fund offerings?
 
 ---
 
