@@ -35,7 +35,7 @@ Analyze the volatility of each of the four fund portfolios and of the S&P 500 In
 
 2. Use the Pandas drop function to create a new DataFrame that contains the data for just the four fund portfolios by dropping the S&P 500 column. Visualize the daily return data for just the four fund portfolios by using another box plot. Be sure to include the title parameter, and adjust the figure size if necessary.
 
-Hint Save this new DataFrame—the one that contains the data for just the four fund portfolios. You’ll use it throughout the analysis.
+> Hint Save this new DataFrame—the one that contains the data for just the four fund portfolios. You’ll use it throughout the analysis.
 
 3. Answer the following question: Based on the box plot visualization of just the four fund portfolios, which fund was the most volatile (with the greatest spread) and which was the least volatile (with the smallest spread)?
 
@@ -91,9 +91,9 @@ Next, for each of the two portfolios that you chose, complete the following step
 
 Finally, answer the following two questions:
 
-      * Which of the two portfolios seem more sensitive to movements in the S&P 500?
+    * Which of the two portfolios seem more sensitive to movements in the S&P 500?
 
-      * Which of the two portfolios do you recommend for inclusion in your firm’s suite of fund offerings?
+    * Which of the two portfolios do you recommend for inclusion in your firm’s suite of fund offerings?
 
 ---
 
