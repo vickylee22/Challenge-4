@@ -54,11 +54,11 @@ Evaluate the risk profile of each portfolio by using the standard deviation and 
 
 5. Answer the following three questions:
 
-  * Based on the annualized standard deviation, which portfolios pose more risk than the S&P 500?
+    * Based on the annualized standard deviation, which portfolios pose more risk than the S&P 500?
 
-  * Based on the rolling metrics, does the risk of each portfolio increase at the same time that the risk of the S&P 500 increases?
+    * Based on the rolling metrics, does the risk of each portfolio increase at the same time that the risk of the S&P 500 increases?
 
-  * Based on the rolling standard deviations of only the four fund portfolios, which portfolio poses the most risk? Does this change over time?
+    * Based on the rolling standard deviations of only the four fund portfolios, which portfolio poses the most risk? Does this change over time?
 
 ---
 
@@ -91,9 +91,9 @@ Next, for each of the two portfolios that you chose, complete the following step
 
 Finally, answer the following two questions:
 
-  * Which of the two portfolios seem more sensitive to movements in the S&P 500?
+    * Which of the two portfolios seem more sensitive to movements in the S&P 500?
 
-  * Which of the two portfolios do you recommend for inclusion in your firm’s suite of fund offerings?
+    * Which of the two portfolios do you recommend for inclusion in your firm’s suite of fund offerings?
 
 ---
 
