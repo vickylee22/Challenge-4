@@ -13,6 +13,8 @@ Use the risk_return_analysis.ipynb file to complete the following steps:
 
 3. Use the Pandas pct_change function together with dropna to create the daily returns DataFrame. Base this DataFrame on the NAV prices of the four portfolios and on the closing price of the S&P 500 Index. Review the first five rows of the daily returns DataFrame.
 
+---
+
 ### Analyze the Performance
 Analyze the data to determine if any of the portfolios outperform the broader stock market, which the S&P 500 represents. To do so, complete the following steps:
 
@@ -24,6 +26,8 @@ Analyze the data to determine if any of the portfolios outperform the broader st
 
 4. Answer the following question: Based on the cumulative return data and the visualization, do any of the four fund portfolios outperform the S&P 500 Index?
 
+---
+
 ### Analyze the Volatility
 Analyze the volatility of each of the four fund portfolios and of the S&P 500 Index by using box plots. To do so, complete the following steps:
 
@@ -34,6 +38,8 @@ Analyze the volatility of each of the four fund portfolios and of the S&P 500 In
 Hint Save this new DataFrame—the one that contains the data for just the four fund portfolios. You’ll use it throughout the analysis.
 
 3. Answer the following question: Based on the box plot visualization of just the four fund portfolios, which fund was the most volatile (with the greatest spread) and which was the least volatile (with the smallest spread)?
+
+---
 
 ### Analyze the Risk
 Evaluate the risk profile of each portfolio by using the standard deviation and the beta. To do so, complete the following steps:
@@ -48,11 +54,13 @@ Evaluate the risk profile of each portfolio by using the standard deviation and 
 
 5. Answer the following three questions:
 
-* Based on the annualized standard deviation, which portfolios pose more risk than the S&P 500?
+  * Based on the annualized standard deviation, which portfolios pose more risk than the S&P 500?
 
-* Based on the rolling metrics, does the risk of each portfolio increase at the same time that the risk of the S&P 500 increases?
+  * Based on the rolling metrics, does the risk of each portfolio increase at the same time that the risk of the S&P 500 increases?
 
-* Based on the rolling standard deviations of only the four fund portfolios, which portfolio poses the most risk? Does this change over time?
+  * Based on the rolling standard deviations of only the four fund portfolios, which portfolio poses the most risk? Does this change over time?
+
+---
 
 ### Analyze the Risk-Return Profile
 To determine the overall risk of an asset or portfolio, quantitative analysts and investment managers consider not only its risk metrics but also its risk-return profile. After all, if you have two portfolios that each offer a 10% return but one has less risk, you’d probably invest in the smaller-risk portfolio. For this reason, you need to consider the Sharpe ratios for each portfolio. To do so, complete the following steps:
@@ -64,6 +72,8 @@ To determine the overall risk of an asset or portfolio, quantitative analysts an
 3. Visualize the Sharpe ratios for the four funds and for the S&P 500 in a bar chart. Be sure to include the title parameter, and adjust the figure size if necessary.
 
 4. Answer the following question: Which of the four portfolios offers the best risk-return profile? Which offers the worst?
+
+---
 
 #### Diversify the Portfolio
 Your analysis is nearing completion. Now, you need to evaluate how the portfolios react relative to the broader market. Based on your analysis so far, choose two portfolios that you’re most likely to recommend as investment options. To start your analysis, complete the following step:
@@ -81,9 +91,11 @@ Next, for each of the two portfolios that you chose, complete the following step
 
 Finally, answer the following two questions:
 
-* Which of the two portfolios seem more sensitive to movements in the S&P 500?
+  * Which of the two portfolios seem more sensitive to movements in the S&P 500?
 
-* Which of the two portfolios do you recommend for inclusion in your firm’s suite of fund offerings?
+  * Which of the two portfolios do you recommend for inclusion in your firm’s suite of fund offerings?
+
+---
 
 ## License 
 MIT
