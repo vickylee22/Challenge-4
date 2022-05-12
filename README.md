@@ -3,7 +3,11 @@ In this Challenge, you'll assume the role of a quantitative analyst for a FinTec
 
 You've been tasked with evaluating four new investment options for inclusion in the client portfolios. Legendary fund and hedge-fund managers run all four selections. (People sometimes refer to these managers as whales, because of the large amount of money that they manage). You’ll need to determine the fund with the most investment potential based on key risk-management metrics: the daily returns, standard deviations, Sharpe ratios, and betas.
 
+---
+
 ## Instructions
+---
+
 ### Import the Data
 Use the risk_return_analysis.ipynb file to complete the following steps:
 
@@ -89,7 +93,7 @@ Next, for each of the two portfolios that you chose, complete the following step
 
 4. Plot the 60-day rolling beta. Be sure to include the title parameter, and adjust the figure size if necessary.
 
-Finally, answer the following two questions:
+5. Finally, answer the following two questions:
 
     * Which of the two portfolios seem more sensitive to movements in the S&P 500?
 
