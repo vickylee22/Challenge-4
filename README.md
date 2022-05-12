@@ -49,7 +49,7 @@ Evaluate the risk profile of each portfolio by using the standard deviation and 
 
 2. Calculate the annualized standard deviation for each of the four portfolios and for the S&P 500. To do that, multiply the standard deviation by the square root of the number of trading days. Use 252 for that number.
 
-3. Use the daily returns DataFrame and a 21-day rolling window to plot the rolling standard deviations of the four fund portfolios and of the S&P 500 index. Be sure to include the title parameter, and adjust the figure size if necessary.
+3. Use the daily returns DataFrame and a 21-day rolling window to plot the rolling standard deviations of the four fund portfolios and of the S&P 500 index. Be sure to include the ```title``` parameter, and adjust the figure size if necessary.
 
 4. Use the daily returns DataFrame and a 21-day rolling window to plot the rolling standard deviations of only the four fund portfolios. Be sure to include the ```title``` parameter, and adjust the figure size if necessary.
 
@@ -79,7 +79,7 @@ To determine the overall risk of an asset or portfolio, quantitative analysts an
 #### Diversify the Portfolio
 Your analysis is nearing completion. Now, you need to evaluate how the portfolios react relative to the broader market. Based on your analysis so far, choose two portfolios that you’re most likely to recommend as investment options. To start your analysis, complete the following step:
 
-Use the Pandas ``var``` function to calculate the variance of the S&P 500 by using a 60-day rolling window. Visualize the last five rows of the variance of the S&P 500.
+Use the Pandas ```var``` function to calculate the variance of the S&P 500 by using a 60-day rolling window. Visualize the last five rows of the variance of the S&P 500.
 
 Next, for each of the two portfolios that you chose, complete the following steps:
 
