@@ -1,9 +1,9 @@
-# Analyzing Portfolio Risk and Return
+# **Analyzing Portfolio Risk and Return**
 In this Challenge, you'll assume the role of a quantitative analyst for a FinTech investing platform. This platform aims to offer clients a one-stop online investment solution for their retirement portfolios that’s both inexpensive and high quality. (Think about Wealthfront or Betterment). To keep the costs low, the firm uses algorithms to build each client's portfolio. The algorithms choose from various investment styles and options.
 
 You've been tasked with evaluating four new investment options for inclusion in the client portfolios. Legendary fund and hedge-fund managers run all four selections. (People sometimes refer to these managers as whales, because of the large amount of money that they manage). You’ll need to determine the fund with the most investment potential based on key risk-management metrics: the daily returns, standard deviations, Sharpe ratios, and betas.
 
-## Instructions
+## **Instructions**
 
 ### Import the Data
 Use the risk_return_analysis.ipynb file to complete the following steps:
@@ -36,7 +36,7 @@ Analyze the volatility of each of the four fund portfolios and of the S&P 500 In
 
 2. Use the Pandas drop function to create a new DataFrame that contains the data for just the four fund portfolios by dropping the S&P 500 column. Visualize the daily return data for just the four fund portfolios by using another box plot. Be sure to include the title parameter, and adjust the figure size if necessary.
 
-> Hint Save this new DataFrame—the one that contains the data for just the four fund portfolios. You’ll use it throughout the analysis.
+> **Hint** Save this new DataFrame—the one that contains the data for just the four fund portfolios. You’ll use it throughout the analysis.
 
 3. Answer the following question: Based on the box plot visualization of just the four fund portfolios, which fund was the most volatile (with the greatest spread) and which was the least volatile (with the smallest spread)?
 
